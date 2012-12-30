@@ -8,8 +8,8 @@ Gem::Specification.new do |gem|
   gem.version       = Yeetou::VERSION
   gem.authors       = ["Jianhua Tang"]
   gem.email         = ["shmp2005@163.com"]
-  gem.description   = %q{TODO: Write a gem description}
-  gem.summary       = %q{TODO: Write a gem summary}
+  gem.description   = %q{ Write a gem description}
+  gem.summary       = %q{ Write a gem summary}
   gem.homepage      = ""
 
   gem.files         = `git ls-files`.split($/)
