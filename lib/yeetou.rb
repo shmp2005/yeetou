@@ -1,5 +1,5 @@
 require "yeetou/version"
-require "other/dog"
+require "yeetou/cat"
 
 module Yeetou
   # Your code goes here...
