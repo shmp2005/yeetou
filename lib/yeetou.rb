@@ -8,3 +8,7 @@ require "fund/book"
 module Yeetou
   # Your code goes here...
 end
+
+module Fund
+  # Your code goes here...
+end
