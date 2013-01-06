@@ -1,3 +1,4 @@
+require "mongoid"
 require "yeetou/version"
 require "yeetou/yt"
 require "yeetou/fund/book"
