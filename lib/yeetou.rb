@@ -3,12 +3,8 @@ require "yeetou/cat"
 require "yeetou/dog"
 require "yeetou/person"
 require "yeetou/yt/order"
-require "fund/book"
+require "fund"
 
 module Yeetou
-  # Your code goes here...
-end
-
-module Fund
   # Your code goes here...
 end
