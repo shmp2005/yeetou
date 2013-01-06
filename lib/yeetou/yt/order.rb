@@ -1,4 +1,4 @@
-class Yt::Order
+class Yeetou::Yt::Order
   def to_s
     puts "hi, i am an Order"
   end
