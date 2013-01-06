@@ -1,2 +1,14 @@
-#require "yeetou/fund/abstract"
-Dir.glob("fund/**/*.rb").sort.map { |e| require e }
+require "yeetou/fund/abstract"
+
+require "yeetou/fund/backlog"
+require "yeetou/fund/company"
+require "yeetou/fund/currency_net_value"
+require "yeetou/fund/exp_profit"
+require "yeetou/fund/exp_profit_risk"
+require "yeetou/fund/exponent"
+require "yeetou/fund/fund"
+require "yeetou/fund/fund_pool"
+require "yeetou/fund/net_value"
+require "yeetou/fund/pool"
+require "yeetou/fund/profit_risk"
+require "yeetou/fund/profit_risk_class_rank"
