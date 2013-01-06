@@ -13,3 +13,9 @@ module Yeetou
       end
   end	
 end
+
+class Yeetou::Yt::Product
+    def to_s
+       puts "yeetou product"
+    end
+end
