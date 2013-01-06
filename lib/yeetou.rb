@@ -7,3 +7,7 @@ require "yt/order"
 module Yeetou
   # Your code goes here...
 end
+
+module Yt
+
+end
