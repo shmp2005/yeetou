@@ -7,4 +7,4 @@
 #require "yeetou/yt/order_detail"
 #require "yeetou/yt/order_profit"
 #require "yeetou/yt/profit_predict"
-Dir.glob("other/*.rb").sort.map { |e| require e }
+Dir.glob("yt/*.rb").sort.map { |e| require e }
